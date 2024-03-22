@@ -11,7 +11,11 @@ All the [slide sets from participation meetings](https://github.com/e-id-admin/g
 ## Open Source Repositories
 All the code of apps, services, and libraries built for the Swiss Trust Infrastructure will be released as open source.
 
-Check out the [Open Source Repositories](https://github.com/orgs/e-id-admin/repositories?q=eidch).
+**Open Code:** Check out the [Open Source Repositories](https://github.com/orgs/e-id-admin/repositories?q=eidch).
+
+**eLFA:** For information about the pilot project "digital learner driver's license" check out the [details](https://github.com/e-id-admin/eidch-pilot-elfa-base-infrastructure).
+
+**Public Sandbox Trust Infrastructure:** The documentation with cookbook, meeting minutes and subscription forms of the Public Sandbox Trust Infrastructure is available [here](https://github.com/e-id-admin/public-sandbox-trustinfrastructure).
 
 ## General Information
 For further information about the legislation and other aspects, please visit www.e-id.ch
