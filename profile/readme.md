@@ -13,6 +13,8 @@ All the code of apps, services, and libraries built for the Swiss Trust Infrastr
 
 **Open Code:** Check out the [Open Source Repositories](https://github.com/orgs/e-id-admin/repositories?q=eidch).
 
+**Public Beta:** [Public Beta](https://github.com/e-id-admin/eidch-public-beta) is our next major step towards the Swiss e-ID and its trust infrastructure, launching in Q1 2025.
+
 **eLFA:** For information about the pilot project "digital learner driver's license" check out the [details](https://github.com/e-id-admin/eidch-pilot-elfa-base-infrastructure).
 
 **Public Sandbox Trust Infrastructure:** The documentation with cookbook, meeting minutes and subscription forms of the Public Sandbox Trust Infrastructure is available [here](https://github.com/e-id-admin/public-sandbox-trustinfrastructure).
